@@ -1,1 +1,1 @@
-web: python hannu.py
+web: python bot.py
